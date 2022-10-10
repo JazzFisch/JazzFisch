@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Jason</h1>
 <h3 align="center">A Staff Software Developer from the Pacific Northwest</h3>
 
-- I’m currently working on [homepage](https://github.com/benphelps/homepage)
+Things I'm currently working on
+- [homepage](https://github.com/benphelps/homepage)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
