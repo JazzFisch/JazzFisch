@@ -2,7 +2,7 @@
 <h3 align="center">A Staff Software Developer from the Pacific Northwest</h3>
 
 Things I'm currently working on
-- [homepage](https://github.com/benphelps/homepage)
+- [homepage](https://github.com/benphelps/homepage) : A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 <!--
 <h3 align="left">Connect with me:</h3>
